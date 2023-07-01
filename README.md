@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ashwinak148@gmail.com**
 
-- 📄 Know about my experiences <a href="bit.ly/ashwin-k">bit.ly/ashwin-k</a>
+- 📄 Know about my experiences [https://bit.ly/ashwin-k](https://bit.ly/ashwin-k)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
